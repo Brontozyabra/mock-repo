@@ -1,4 +1,4 @@
-# Kottans-frontend
+﻿# Kottans-frontend
 ---
  
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
@@ -4371,3 +4371,9 @@ I wish you a good day;)
 # Всім привіт! Я Арсен з Дрогобича!
 
 Дуже дякую за подану інформацію і підтримку в чаті! Працюємо!
+
+---
+
+# Hi to everyone!
+
+I'm Olga and I'm glad to be here!
